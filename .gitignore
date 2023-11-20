@@ -7,7 +7,5 @@ npm-debug.log*
 # Environment variables
 .env
 
-# Docker
-Dockerfile
-docker-compose.yml
+
 
